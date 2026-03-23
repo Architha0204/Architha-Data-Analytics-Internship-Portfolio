@@ -13,7 +13,7 @@ The internship involved building an end-to-end data analytics project including 
 - Data cleaning and preprocessing
 - Handling missing values and inconsistencies
 
-🔗 https://github.com/Architha0204/Task-1-Data-Wrangling
+🔗 https://github.com/Architha0204/Task-1--Data-Immersion-Wrangling
 
 ---
 
